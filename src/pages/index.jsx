@@ -13,6 +13,8 @@ export default function Inicio() {
             <Navegador label="Exemplo" route="/exemplo" />
             <Navegador label="Cliente" route="/cliente/SP/123" />
             <Navegador label="Integração API" route="/integracao" />
+            <Navegador label="Conteúdo Estático" route="/estatico" />
+            <Navegador label="Conteúdo Dinâmico" route="/dinamico" />
         </div>
     );
 }
